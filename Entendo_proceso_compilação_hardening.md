@@ -205,8 +205,8 @@
 
 Referência:
 
-https://tsxvpsbr.dyndns.org/arquivos/UFFS/Compiladores%20-%20Princ%C3%ADpios%20T%C3%A9cnicas%20e%20Ferramentas.pdf
-https://www.passeidireto.com/arquivo/142133133/processo-de-compilacao
-https://geovanegriesang.wordpress.com/wp-content/uploads/2015/04/compiladores_04.pdf
-https://repositorio.ufsc.br/bitstream/handle/123456789/183898/Gals.pdf?sequence=-
+1. https://tsxvpsbr.dyndns.org/arquivos/UFFS/Compiladores%20-%20Princ%C3%ADpios%20T%C3%A9cnicas%20e%20Ferramentas.pdf
+2. https://www.passeidireto.com/arquivo/142133133/processo-de-compilacao
+3. https://geovanegriesang.wordpress.com/wp-content/uploads/2015/04/compiladores_04.pdf
+4. https://repositorio.ufsc.br/bitstream/handle/123456789/183898/Gals.pdf?sequence=-
 

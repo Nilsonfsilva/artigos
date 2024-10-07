@@ -112,6 +112,6 @@ qualidade para milhões de usuários em todo o mundo.
 
 
 Referência:
-https://wiki.debian.org/ReproducibleBuilds
-https://reproducible-builds.org/de/contribute/debian/
-https://wiki.archlinux.org/title/Reproducible_builds_(Portugu%C3%AAs)
+1. https://wiki.debian.org/ReproducibleBuilds
+2. https://reproducible-builds.org/de/contribute/debian/
+3. https://wiki.archlinux.org/title/Reproducible_builds_(Portugu%C3%AAs)

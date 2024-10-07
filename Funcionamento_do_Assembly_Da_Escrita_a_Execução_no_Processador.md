@@ -167,10 +167,10 @@ otimizada.
 
 Reference:
 
-https://gil0mendes.gitbooks.io/assembly/content/syntax_basica.html
+1. https://gil0mendes.gitbooks.io/assembly/content/syntax_basica.html
 
-https://www.dic.app.br/2003/02/loader-utilitario-de-carga.html
+2. https://www.dic.app.br/2003/02/loader-utilitario-de-carga.html
 
-https://www.inf.ufpr.br/roberto/ci210/assembly.pdf
+3. https://www.inf.ufpr.br/roberto/ci210/assembly.pdf
 
-https://resumos.leic.pt/iac/assembly-avancado/
+4. https://resumos.leic.pt/iac/assembly-avancado/
