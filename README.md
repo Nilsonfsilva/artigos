@@ -8,53 +8,53 @@ Abaixo, você encontra uma breve descrição de cada artigo.
 
 ## Artigos
 
-### 1. Funcionamento_do_Assembly_Da_Escrita_a_Execução_no_Processador.md
+### 1. Funcionamento do Assembly da Escrita a Execução no Processador
    Este artigo explora o funcionamento do código Assembly, desde a sua escrita até
 a execução no processador. São discutidos conceitos como seções de memória, o papel
 do loader, funcionamento da pilha e registradores, com exemplos que ajudam a
 simplificar essas operações complexas.
 
-### 2. debian_testing_platforms_limited.md
+### 2. Debian testing platforms
    Um artigo que analisa as limitações e estratégias de teste em plataformas Debian.
 Discute o ambiente de teste, as arquiteturas suportadas e os desafios enfrentados
 para garantir a compatibilidade dos pacotes em diferentes sistemas.
 
-### 3. flags_rust_compilation.md
+### 3. Flags rust compilation
    Guia técnico sobre o processo de compilação no Rust, com foco no uso de flags para
 otimizar o desempenho e a segurança durante a construção de projetos. O artigo
 aborda flags do compilador, otimizações no linker e como gerenciar perfis de
 compilação de forma eficaz.
 
-### 4. processo_de_compilacao.md
+### 4. Processo de compilacao
    Apresenta uma visão geral detalhada do processo de compilação, desde o código-fonte
 até o binário executável. Aborda as fases essenciais como pré-processamento,
 compilação, montagem e ligação, destacando as ferramentas e sistemas envolvidos em
 cada estágio.
 
-### 5. dump_memoria_forense.md
+### 5. Dump memoria forense
    Exploração forense de dumps de memória, detalhando métodos usados para capturar e
 analisar a memória volátil para fins legais ou investigativos. O artigo cobre
 ferramentas e técnicas para extrair informações valiosas de dumps de memória em
 ambientes Linux e Windows.
 
-### 6. gerenciamento_saidas_terminal_linux.md
+### 6. Gerenciamento de saidas no terminal linux
    Um guia sobre como gerenciar as saídas do terminal em sistemas Linux. Explica sobre
 redirecionamento de fluxo, manipulação de logs e comandos de terminal que controlam
 como e onde as saídas são exibidas ou armazenadas.
 
-### 7. entendo_proceso_compilação_hardening.md
+### 7. Entendoproceso compilação hardening
    Discute técnicas de hardening no processo de compilação, com o objetivo de melhorar
 a segurança do sistema. Aborda flags de hardening comuns, seu impacto nos binários
 gerados e como ajudam a prevenir vulnerabilidades como buffer overflow e ataques de
 formatação de strings.
 
-### 8. Introducao_ao_Baixo_Nível_e_Sistemas_de_Hardware_Do_Clique_ao_Processamento.md
+### 8. Introducao ao Baixo Nível e Sistemas de Hardware do Clique ao Processamento
    Um artigo introdutório sobre programação de baixo nível e sistemas de hardware,
 explicando o processo desde o clique do usuário até o processamento realizado pelo
 hardware. Cobre conceitos como interrupções, operações do kernel e interação entre
 hardware e software.
 
-### 9. trafego_de_dados_no_hardware.md
+### 9. Trafego de dados no hardware
    Explica o tráfego de dados dentro dos sistemas de hardware, detalhando como os dados
 são transferidos entre diferentes componentes de hardware, como barramentos, memória
 e processadores. O artigo também aborda fatores que influenciam o desempenho, como
