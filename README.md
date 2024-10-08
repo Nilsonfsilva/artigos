@@ -60,6 +60,10 @@ são transferidos entre diferentes componentes de hardware, como barramentos, me
 e processadores. O artigo também aborda fatores que influenciam o desempenho, como
 largura de banda e latência.
 
+### 10. O papel do loader na execução de programas
+Aqui está uma visão reorganizada e detalhada do funcionamento do loader no processo
+de carregamento de um programa na memória.
+
 ## Como Utilizar
 
 Explore os artigos para entender mais sobre os conceitos de Assembly, processos de
