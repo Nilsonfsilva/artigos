@@ -119,3 +119,12 @@ você tenha uma compreensão mais clara sobre os papéis essenciais desempenhado
 controladores, gerenciadores e o kernel no seu computador. Cada um desses elementos, 
 apesar de atuar nos bastidores, é fundamental para que tudo funcione corretamente, do 
 simples ato de clicar em um ícone até a execução de tarefas mais complexas.
+
+
+Referências:
+
+1. https://www.significados.com.br/kernel/
+2. https://napoleon.com.br/glossario/o-que-e-kernel-nucleo-do-sistema-operacional/
+3. https://www.tecmundo.com.br/netbook/1549-drivers-efetuando-a-comunicacao-entre-hardware-e-software.htm
+4. https://www.engenhariahibrida.com.br/post/firmware-driver-software-entenda-as-diferencas
+
